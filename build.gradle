@@ -1,6 +1,6 @@
 buildscript {
     ext.kotlin_version = '1.4.30-M1'
-    ext.dokka_version = '1.4.20.2-dev-62'
+    ext.dokka_version = '1.8.0-dev-189'
     repositories {
         gradlePluginPortal()
         google()
